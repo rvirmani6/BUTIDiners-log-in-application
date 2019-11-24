@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "butidiners-coding-challenge",
+  "private_key_id": "f2d65bfbd7f32e69285e43cd764bc89dbf3950ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5VZ7wx/I0/Tw0\nH8292R3uyfOk7kE5TIQVqIY01mcn6SFl6waWK70wUmVEnm+doEhaK3pApFeATi/h\nUQAPY5vazpnp/H1A+KKhaefrGA+dDfJgI5EoEK3mDRZ2EW9RpUyGcYC2aGruIZG2\n/Id7cTV4gv3tsxX4Y3EwgsyUkwDfzmBBjVQOt+U2G6TZUpZv0BDJ3qqeBUyx1qZV\nApXxPVO/rRue7YvFJuQUSAT2YyQoCoFlODuwuGMvbPoop2UCMkS1hSAdsdeQHDQn\nyDP507+3g42Q+u1E7D1qtqeqH6Guyz1XrNj01aWrq59wfcmnf0wcFezh0ToEednv\n27zlvui5AgMBAAECggEAB4F1TwLH9zeoviMqF8XQ2aR14LBx9YY45LAnJEFpGtON\nEdW1dfQ2RJxXo9JnSorM11MCr9bAAO8Zrw4y2oyyCYfbsZ9TOsP/ARq7BNk7+6Qu\nlFBobucTBdmylsxAtf2j5l93IxwCNZvoLPEX8wq8C8IBUuSxb3ZmhXyMmLlF3Cpr\nqRK/fg2IDpau+mUZic9USYTT8A4H6cW6u8IfVJRwPVsfV6NL7mJRnpWkx2QVk8Fk\n93UKDPtjzlKWOVAiwBJ14RF83emXg4HiC+P4aoicU2Fymma5HdQDykLV72c9Vv3x\nDtTFEbvymksl8IJxT3npMe0ipEz6bog5qzWP8kfLAQKBgQDqBdKaKiaKL2v+JPJ/\nH8bJ3z7Q/fRtNX2OtcNRaXQE4bzEmdD02X9yo5sRVQ3PYc955OfWwkpu7F009F/o\nF/dApnqOlKvVbZvSAibTwVB3isZ69fz0T778qfZyN51t/tv1rblsoZlqp61kFah9\nJWQE8s0A6GHU8/riyjBRiDQdAQKBgQDKvUaEbbLNZYA/9jvOjA4jeO4/OfLa2c9U\n8ZJ5edvqu1NFKbn+xYfg2njOu70YHtaKE90I8t9CZ7NBN5J8kcMg8Z+q/x90gdTu\njp5YGzA2dtxlxmzO3OHEPah/mNsuWRAnXJyWm4y8oEKL+Y8cKy4z2Z5TLIH//flJ\nERQd6o7zuQKBgFFCHFJzeFZbCQCCC8GgYwINhl5DD/ArtqEq89r85tAbIdSSJEAg\nlWRU8q8d/WGY8NW+adHkPLwvTl3ozLRmPfAw3jVL4i6FlKljHeBBK5OWmDxx1Zdv\naT2KNoyKSxu6dt3jqJLTudWSy14JNyvdI9GkDRLXncC3xtGgqw5kYNQBAoGAWVM5\nnaFjlUGyVvwbb66fkBt5BRx4Ftq+kdN50NHTBkIQtzliPJE1g+leLt/iuZzks6N6\n0LWJjo14GjTs8ruaOIqc6c9MQZ3ufkkSFQmtnWGTS7g4OpBxXHA6LDXh5DLTfjQ8\nvdK9GGKXz2peFnAkBC5OpqDGik6RJhNDRMcSwukCgYEAx5jzhqkAZwD676o7Hl3u\ndYfj1EQcsvDlJX25qI/629hKL6GCupiHMgm182PBts7/TPKRoyVlQxiQ8crzB0RT\nZut9z/WYTYoBRG9B23Y9Hfn1t3+AxjgDTE/LX+e329My14AxuY5gurrvaeybUsp8\n1Q+7cvIceuyBMjMlpMLQprQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "first-acc@butidiners-coding-challenge.iam.gserviceaccount.com",
+  "client_id": "100181388933109923762",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/first-acc%40butidiners-coding-challenge.iam.gserviceaccount.com"
+}
