@@ -60,8 +60,8 @@ app.post('/CreateAccessCode', async function(req, res) {
 app.post('/twilioAccessCode', async function(req, res) {
     try {
     const { accessCode, phoneNumber } = req.query;
-    const accountSid = 'AC8c64f3013b13d9a2f876aaa67aa2a0ef';
-    const authToken = '19bfb783a4c49a805ee5a7d501610bf9';
+    const accountSid = '';
+    const authToken = '';
     // require the Twilio module and create a REST client
     const client = require('twilio')(accountSid, authToken);
     const message = await client.messages
